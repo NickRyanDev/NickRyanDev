@@ -3,14 +3,6 @@
 - 🔭 currently work as back end
 - 😄 Pronouns: He/Him
 - 😉 interested in: Web development, IoT, Automation Processes
-
-<div>
-  <a href="https://github.com/NickRyanDev">
-  <img align="center" height="203em" src="https://github-readme-stats.vercel.app/api?username=NickRyanDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  
-</div>
-<div>
-   <img align="center" height="250" width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickRyanDev&theme=blue-green"/>
-</div>
   
 ## ⚙️ Technologies
 <div style="display: inline_block"><br>
