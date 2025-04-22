@@ -1,8 +1,8 @@
 # Hello there, I'm Nicholas Barros 😄
 
-- 🔭 currently work as back end
+- 🔭 currently work with Operational Efficiency
 - 😄 Pronouns: He/Him
-- 😉 interested in: Web development, IoT, Automation Processes
+- 😉 interested in: IoT, Industrial Automation Processes
   
 ## ⚙️ Technologies
 <div style="display: inline_block"><br>
