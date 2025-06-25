@@ -2,7 +2,7 @@
 
 - 🔭 currently work with Operational Efficiency
 - 😄 Pronouns: He/Him
-- 😉 interested in: IoT, Industrial Automation Processes
+- 😉 interested in: IoT, Robotics & Industrial Automation Processes
   
 ## ⚙️ Technologies
 <div style="display: inline_block"><br>
